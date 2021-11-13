@@ -1,7 +1,7 @@
 package api
 
 import (
-	helper "GolangProject/api/helpers"
+	helper "Golang/api/helpers"
 
 	uuid "github.com/satori/go.uuid"
 	"gopkg.in/mgo.v2/bson"

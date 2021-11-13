@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	//sapi "GinServer/Todos/api"
-	api "GolangProject/api"
-	"GolangProject/api/helpers"
+	api "Golang/api"
+	"Golang/api/helpers"
 
 	"github.com/gin-gonic/gin"
 	//_ "github.com/go-sql-driver/mysql"
